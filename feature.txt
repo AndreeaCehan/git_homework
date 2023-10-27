@@ -1,0 +1,1 @@
+The git stash command is really helpful when you're not ready to commit :D
